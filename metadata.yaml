@@ -1,0 +1,55 @@
+_repo: Wild-WalesThe-People-Laguage--amp--Scenery_37665
+_version: 0.1.0
+alternative_title: 'Wild Wales: The People, Language, and Scenery'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Borrow, George
+    alias: Borrow, George Henry
+    birthdate: 1803
+    deathdate: 1881
+    gutenberg_agent_id: '4383'
+    url: http://www.gutenberg.org/2009/agents/4383
+    wikipedia: http://en.wikipedia.org/wiki/George_Borrow
+  editor:
+    agent_name: Watts-Dunton, Theodore
+    aliases:
+    - Watts, Theodore
+    - Watts-Dunton, Walter Theodore
+    birthdate: 1832
+    deathdate: 1914
+    gutenberg_agent_id: '5054'
+    url: http://www.gutenberg.org/2009/agents/5054
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Watts-Dunton
+description: "Wild Wales: Its People, Language and Scenery is a travel book by the\
+  \ English Victorian gentleman writer George Borrow (1803–1881), first published\
+  \ in 1862.\nThe book recounts Borrow's personal experiences and insights while touring\
+  \ Wales alone on foot after a family holiday in Llangollen in 1854, and has come\
+  \ to be regarded as a source of useful information about the social and geographical\
+  \ history of the country at that time.\nIt has been described as \"robust, dramatic\
+  \ and cheerful\", and the author as \"an agreeably eccentric, larger-than-life,\
+  \ jovial man whose laughter rings all through the book\".\nThe author makes much\
+  \ of his self-taught ability to speak the Welsh language and how surprised the native\
+  \ Welsh people he meets and talks to are by both his linguistic abilities and his\
+  \ travels, education and personality, and also by his idiosyncratic pronunciation\
+  \ of their language.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2011-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37665'
+  wikidata: Q8000838
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Wales -- Description and travel'
+- !lcsh 'Borrow, George, 1803-1881 -- Travel -- Wales'
+title: 'Wild Wales: The People, Language, & Scenery'
+url: http://www.gutenberg.org/ebooks/37665
+wikipedia:
+- https://cy.wikipedia.org/wiki/Wild_Wales
+- https://en.wikipedia.org/wiki/Wild_Wales
